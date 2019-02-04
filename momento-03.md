@@ -1,5 +1,4 @@
 ## Internet das Coisas
-
 Características da IoT:  
 + Realizar a conexão entre objetos físicos e virtuais.
 + Promover a rastreabilidade na cadeia de valor.
