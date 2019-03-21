@@ -109,10 +109,13 @@ Na escolha da Nuvem devem ser considerados o custo, que não deverá ser alto, u
 a privacidade, pois, eventualmente, poderemos armazenar documentos sigilosos. Além disso, ainda não dispomos de pessoal   
 qualificado para administrá-la.
 ```  
-Selecione a Nuvem mais adequada às necessidades da empresa:
- ()Nuvem pública      ()Nuvem privada       (X)Nuvem comunitária      ()Nuvem híbrida
+Selecione a Nuvem mais adequada às necessidades da empresa:  
+- [ ] Nuvem pública  
+- [ ] Nuvem privada  
+- [X] Nuvem comunitária  
+- [ ] Nuvem híbrida  
  
-Módulo 3
+# Módulo 3
 ___
 Neste Módulo, você conheceu o conceito de Computação em Nuvem, os tipos de Nuvens e de serviços oferecidos por provedores.  
 
