@@ -1,3 +1,4 @@
+
 ## Integração de sistemas
 
 Neste módulo, você conhecerá o conceito de integração sistemas, a verticalização e a horizontalização na indústria 4.0.
@@ -72,15 +73,17 @@ Em outras palavras, todos os componentes e áreas estão conectados, o que permi
 Veja agora, como o processo de verticalização acontece na indústria 4.0.
 
 1. Camada de dispositivos - Sensores e atuadores instalados nas máquinas enviam dados para a rede. Esses dados fornecem informação detalhada sobre os processos, como:  
-    1.1. paradas de produção.  
-    1.2. quantidade de produtos produzidos.  
-    1.3. qualidade da produção.  
-    1.4. rastreabilidade do produto.  
-    1.5. gestão do custo.  
-    1.6. gestão da manutenção.  
-    1.7. planejamento da produção.  
-    1.8. indicadores e métricas.  
+   * paradas de produção.  
+   * quantidade de produtos produzidos.  
+   * qualidade da produção.  
+   * rastreabilidade do produto.  
+   * gestão do custo.  
+   * gestão da manutenção.  
+   * planejamento da produção.  
+   * indicadores e métricas.  
+   * 
 __Você imagina quanto vale a capacidade de antecipar e evitar problemas antes da produção parar?__  
+
 2. Os dados enviados pelas máquinas e equipamentos da planta passam do sistema físico para o sistema virtual. E uma vez nos sistemas, esses dados são traduzidos, estruturados e integrados e ficam prontos para serem analisados e compartilhados pelos tomadores de decisão da empresa.  Isso tudo imprime rapidez na tomada de decisão tanto por parte dos gestores como do próprio sistema, que pode tomar decisão sozinho, descartando peças defeituosas, por exemplo. Essa velocidade na tomada de decisão é uma das capacidades da indústria ágil.  
 3. O resultado das análises podem direcionar mudanças em tempo real na planta (layout, equipamentos), na produção (tempo, volume, produto etc.), em outras áreas da empresa (financeiro, no sentido de custo x preço do produto, marketing, logística etc.), ou na cadeia de valor (fornecedores, cliente, parceiros) na horizontalização.  
 ___
@@ -114,10 +117,10 @@ Outro exemplo vem das indústrias do setor de alimentos e bebidas que estão cap
 ## Quiz
 De acordo com seus estudos nesse módulo, selecione as afirmativas que apresentam como a integração de sistemas pode tornar a empresa ágil:
 
-a. [X] Com a integração de sistemas e a análise dos dados fornecidos por máquinas e equipamentos na planta, é possível identificar e corrigir falhas na produção.
-b. [X] A integração de sistemas possibilita à empresa a gestão mais eficiente de todos os seus processos, o que imprimi agilidade também no planejamento da produção.
-c. [] A integração de sistemas permite que a cadeia de valor faça alteração nos produtos e processos da empresa em tempo real.
-d. [X] A integração de sistemas fornece indicadores e métricas que permite a tomada de decisão em tempo real, o que imprime agilidade à empresa.
+- [X] Com a integração de sistemas e a análise dos dados fornecidos por máquinas e equipamentos na planta, é possível identificar e corrigir falhas na produção.  
+- [X] A integração de sistemas possibilita à empresa a gestão mais eficiente de todos os seus processos, o que imprimi agilidade também no planejamento da produção.  
+- [ ] A integração de sistemas permite que a cadeia de valor faça alteração nos produtos e processos da empresa em tempo real.  
+- [X] A integração de sistemas fornece indicadores e métricas que permite a tomada de decisão em tempo real, o que imprime agilidade à empresa.  
 
 ## O que você aprendeu até aqui
 Neste módulo, você conheceu o conceito de Integração de Sistemas e a diferença ente verticalização e horizontalização.
